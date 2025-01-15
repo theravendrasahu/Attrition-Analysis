@@ -1,2 +1,1 @@
-# Attrition-Analysis
-HR Attrition Analysis using Power BI
+HR Attrition Analysis Using Power BI
