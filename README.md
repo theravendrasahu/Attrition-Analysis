@@ -1,4 +1,4 @@
-**HR Attrition Analysis Using Power BI**
+# **HR Attrition Analysis Using Power BI**
 
 **Project Overview:-**
 This project analyzes employee attrition in a company using dummy HR data. The objective is to identify the key factors contributing to attrition and provide actionable insights for reducing employee turnover.
