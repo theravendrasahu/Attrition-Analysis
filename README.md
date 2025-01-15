@@ -23,6 +23,7 @@ Dataset.csv: The dummy HR dataset used for the analysis
 README.md: Documentation for the project.
 
 **Dashboard Preview:-**
+![image](https://github.com/user-attachments/assets/66bdad5c-d415-490f-b4a0-8fe5c4db7ce9)
 
 
 **How to Use this project:-**
